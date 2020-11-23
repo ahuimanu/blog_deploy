@@ -134,7 +134,7 @@ Despite the availability of [Whitenoise](http://whitenoise.evans.io/en/stable/),
 
 This is what I used in this project:
 
-![Blog Deploy ENV](https://i.imgur.com/v9WE8Lg.png)
+![Blog Deploy ENV](https://i.imgur.com/VFcPxKU.png)
 
 ### Extras
 
